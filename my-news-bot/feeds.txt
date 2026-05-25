@@ -1,0 +1,4 @@
+# Eine RSS-URL pro Zeile. Leere Zeilen und Kommentare werden ignoriert.
+https://www.tagesschau.de/xml/rss2
+https://www.heise.de/rss/heise-atom.xml
+https://www.spiegel.de/schlagzeilen/tops/index.rss
